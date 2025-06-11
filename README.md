@@ -14,7 +14,7 @@ A small toolkit for constructing commutation graphs from $k$-subsets of $n$ Ferm
 
   
 
-* Preprint: [arXiv\:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
+* Preprint: [arXiv\:2506.09037](https://arxiv.org/abs/2506.09037)
 
   
 
