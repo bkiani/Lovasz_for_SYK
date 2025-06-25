@@ -14,7 +14,9 @@ A small toolkit for constructing commutation graphs from $k$-subsets of $n$ Ferm
 
   
 
-* Preprint: [arXiv\:2506.09037](https://arxiv.org/abs/2506.09037)
+* Preprint: Optimizing Sparse SYK
+Matthew Ding, Robbie King, Bobak T. Kiani, Eric R. Anschuetz
+[arXiv\:2506.09037](https://arxiv.org/abs/2506.09037)
 
   
 
